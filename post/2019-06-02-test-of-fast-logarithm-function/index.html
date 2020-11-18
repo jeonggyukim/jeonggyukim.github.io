@@ -66,7 +66,7 @@ from ctypes import ( Union, Array, c_float, c_int32, cdll, CDLL ) class u_type(U
   "headline": "Test of fast logarithm function",
   "description" : "Python implementation of logapprox fucntion\nfrom ctypes import ( Union, Array, c_float, c_int32, cdll, CDLL ) class u_type(Union): _fields_ = (\x26#34;f\x26#34;, c_float), (\x26#34;i\x26#34;, c_int32) # load printf function from Dynamic Linked Libary libc.so.6 if os.uname().sysname == \x26#39;Darwin\x26#39;: libc = CDLL(cdll.LoadLibrary(\x26#39;libc.dylib\x26#39;)._name) else: libc = CDLL(cdll.LoadLibrary(\x26#39;libc.so.6\x26#39;)._name) printf = libc.printf if __name__ == \x26#34;__main__\x26#34;: # initialize union _32bitsdata = u_type() # set values to chunk _32bitsdata.f = 10.0 # and print it #printf(b\x26#34;Data in 32 bits: %.",
   "inLanguage" : "en",
-  "wordCount":  173 ,
+  "wordCount":  174 ,
   "datePublished" : "2019-06-02T00:00:00",
   "dateModified" : "2019-06-02T00:00:00",
   "image" : "https:\/\/jeonggyukim.github.io",
@@ -102,7 +102,7 @@ from ctypes import ( Union, Array, c_float, c_int32, cdll, CDLL ) class u_type(U
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Jeong-Gyu Kim" />
 
-  <meta name="generator" content="Hugo 0.55.6" />
+  <meta name="generator" content="Hugo 0.68.3" />
   <link rel="alternate" href="https://jeonggyukim.github.io/index.xml" type="application/rss+xml" title="Jeong-Gyu Kim"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://jeonggyukim.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
@@ -273,9 +273,7 @@ if (!doNotTrack) {
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        
-
-<p>Python implementation of <strong>logapprox</strong> fucntion</p>
+        <p>Python implementation of <strong>logapprox</strong> fucntion</p>
 <div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">ctypes</span> <span class="kn">import</span> <span class="p">(</span>
         <span class="n">Union</span><span class="p">,</span> <span class="n">Array</span><span class="p">,</span> 
         <span class="n">c_float</span><span class="p">,</span> <span class="n">c_int32</span><span class="p">,</span> 
@@ -317,25 +315,21 @@ if (!doNotTrack) {
     <span class="n">x</span> <span class="o">=</span> <span class="n">valu</span><span class="o">.</span><span class="n">f</span>
     <span class="k">return</span> <span class="n">x</span><span class="o">*</span><span class="p">(</span><span class="mf">3.529304993</span> <span class="o">+</span> <span class="n">x</span><span class="o">*</span><span class="p">(</span><span class="o">-</span><span class="mf">2.461222105</span> <span class="o">+</span>\
            <span class="n">x</span><span class="o">*</span><span class="p">(</span><span class="mf">1.130626167</span> <span class="o">+</span> <span class="n">x</span><span class="o">*</span><span class="p">(</span><span class="o">-</span><span class="mf">0.288739945</span> <span class="o">+</span> <span class="n">x</span><span class="o">*</span><span class="mf">3.110401639e-2</span><span class="p">))))</span> \
-            <span class="o">+</span> <span class="p">(</span><span class="n">addcst</span> <span class="o">+</span> <span class="mf">0.69314718055995</span><span class="o">*</span><span class="n">exp</span><span class="p">)</span></code></pre></div><div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">8</span><span class="p">))</span>
+            <span class="o">+</span> <span class="p">(</span><span class="n">addcst</span> <span class="o">+</span> <span class="mf">0.69314718055995</span><span class="o">*</span><span class="n">exp</span><span class="p">)</span>
+</code></pre></div><div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">8</span><span class="p">))</span>
 <span class="n">mpl</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s1">&#39;font.size&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">14</span>
 <span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">logspace</span><span class="p">(</span><span class="o">-</span><span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">1000</span><span class="p">)</span>
 <span class="n">y</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">log</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
 <span class="n">yapprox</span> <span class="o">=</span> <span class="n">logapprox</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">semilogx</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="p">(</span><span class="n">y</span> <span class="o">-</span> <span class="n">yapprox</span><span class="p">)</span><span class="o">/</span><span class="n">y</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s1">&#39;x&#39;</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;relative error&#39;</span><span class="p">)</span></code></pre></div>
-<pre><code>Text(0, 0.5, 'relative error')
+<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s1">&#39;relative error&#39;</span><span class="p">)</span>
+</code></pre></div><pre><code>Text(0, 0.5, 'relative error')
 </code></pre>
-
-<p><img src="output_3_1.png" alt="png" /></p>
-
+<p><img src="output_3_1.png" alt="png"></p>
 <h1 id="references">References</h1>
-
 <p>Vectorizable implementations of some mathematical functions (exp, log, sin, cos)</p>
-
 <p><a href="https://github.com/jhjourdan/SIMD-math-prims">https://github.com/jhjourdan/SIMD-math-prims</a></p>
-
 <p><a href="https://stackoverflow.com/questions/45383771/equivalent-c-union-in-python">https://stackoverflow.com/questions/45383771/equivalent-c-union-in-python</a></p>
 
 
@@ -433,7 +427,7 @@ if (!doNotTrack) {
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.55.6</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.68.3</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           &nbsp;&bull;&nbsp;[<a href="true"></a>]
         </p>
       </div>
