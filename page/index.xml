@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Jeong-Gyu Kim</title>
@@ -18,7 +18,8 @@
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       <author>kimjg@astro.princeton.edu (Jeong-Gyu Kim)</author>
       <guid>https://jeonggyukim.github.io/page/cv/</guid>
-      <description>Download my cv here</description>
+      <description>Download my cv here
+ PDFObject.embed(&#34;files/jgkim_cv.pdf&#34;, &#34;#jgkimcv&#34;);    </description>
     </item>
     
     <item>
@@ -28,6 +29,9 @@
       <author>kimjg@astro.princeton.edu (Jeong-Gyu Kim)</author>
       <guid>https://jeonggyukim.github.io/page/movies/</guid>
       <description>Some are research-grade products and some are made just for fun. All simulations are run with the Athena code unless otherwise noted.
+Destruction of Giant Molecular Clouds by UV Radiation Feedback (Kim et al. 2020)
+  Destruction of Giant Molecular Clouds by UV Radiation Feedback (Kim et al. 2018)
+  Thermal Instability
   </description>
     </item>
     
@@ -37,7 +41,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>kimjg@astro.princeton.edu (Jeong-Gyu Kim)</author>
       <guid>https://jeonggyukim.github.io/page/about/</guid>
-      <description>I am a Lyman Spitzer, Jr. Postdoctroal Fellow postdoc at the Department of Astrophysical Sciences at Princeton University. Combining theory and numerical simulations, my researh focuses on understanding the dynamical evolution of molecular clouds under the influence of stellar feedback. During my PhD, I implemented a numerical algorithm for adaptive ray tracing that efficiently solves the radiative transfer problem involving point sources. This has been extensively used to study dispersal of star-forming molecular clouds by UV radiation feedback and escape of radiation in diverse star-forming environments.</description>
+      <description>I am a Lyman Spitzer, Jr. Postdoctroal Fellow postdoc at the Department of Astrophysical Sciences at Princeton University. Combining theory and numerical simulations, my researh focuses on understanding the dynamical evolution of molecular clouds under the influence of stellar feedback. During my PhD, I implemented a numerical algorithm for adaptive ray tracing that efficiently solves the radiative transfer problem involving multiple point sources. This has been extensively used to study destruction of molecular clouds by UV radiation feedback and escape of radiation in diverse star-forming environments.</description>
     </item>
     
   </channel>
