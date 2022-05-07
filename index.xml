@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jeong-Gyu Kim</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Jeong-Gyu Kim</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>About on Jeong-Gyu Kim</title>
+    <link>https://jeonggyukim.github.io/</link>
+    <description>Recent content in About on Jeong-Gyu Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jeonggyukim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jeonggyukim.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeonggyukim.github.io/about/</guid>
+      <description>About Me Welcome! I am a EACOA Postdoctoral Fellow at Korea Astronomy and Space Science Institute, Daejeon, Republic of Korea.
+Combining theory and numerical simulations, my researh focuses on understanding how star formation proceeds in giant molecular clouds in the interstellar medium; how stellar feedback from massive stars (radiation, stellar winds, and supernovae) interacts with the surrounding interstellar medium and subsequently affects the lifecycle of giant molecular clouds and star formation cycle in galactic gas disks.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jeonggyukim.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeonggyukim.github.io/contact/</guid>
+      <description>  Email: jeonggyu dot astro at gmail dot com
+  Location: Lee Wonchul Hall, 3rd floor, room 308
+   Mailing Address  Dr. Jeong-Gyu Kim
+Theoretical Astronomy Department
+Korea Astronomy and Space Science Institute,
+776, Daedeokdae-ro, Yuseong-gu, Daejeon, 34055
+Republic of Korea
+ </description>
+    </item>
+    
   </channel>
 </rss>
