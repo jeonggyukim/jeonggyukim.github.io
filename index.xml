@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jeonggyukim.github.io/about/</guid>
-      <description>About Me Welcome! I am a EACOA Postdoctoral Fellow at Korea Astronomy and Space Science Institute, Daejeon, Republic of Korea.
+      <description>About Me Welcome! I am a EACOA Postdoctoral Fellow at National Astronomical Observatory of Japan, Mitaka, Japan.
 Combining theory and numerical simulations, my researh focuses on understanding how star formation proceeds in giant molecular clouds in the interstellar medium; how stellar feedback from massive stars (radiation, stellar winds, and supernovae) interacts with the surrounding interstellar medium and subsequently affects the lifecycle of giant molecular clouds and star formation cycle in galactic gas disks.</description>
     </item>
     
@@ -22,14 +22,26 @@ Combining theory and numerical simulations, my researh focuses on understanding 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jeonggyukim.github.io/contact/</guid>
-      <description>  Email: jeonggyu dot astro at gmail dot com
-  Location: Lee Wonchul Hall, 3rd floor, room 308
-   Mailing Address  Dr. Jeong-Gyu Kim
-Theoretical Astronomy Department
-Korea Astronomy and Space Science Institute,
-776, Daedeokdae-ro, Yuseong-gu, Daejeon, 34055
-Republic of Korea
- </description>
+      <description>Email: jeonggyu dot astro at gmail dot com, jeonggyu.kim at nao dot ac dot jp
+Location: main building (north), room 218
+Mailing Address Dr. Jeong-Gyu Kim
+Division of Science
+National Astronomical Observatory of Japan
+2-21-1, Osawa, Mitaka, Tokyo 181-0015
+Japan</description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>https://jeonggyukim.github.io/movies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeonggyukim.github.io/movies/</guid>
+      <description>GMC Dispersal of Star-Forming Giant Molecular Clouds with UV Radiation Feedback
+(Kim et al. 2021)
+Dispersal of Star-Forming Giant Molecular Clouds with UV Radiation Feedback
+(Kim et al. 2018)
+Thermal Instability in the Interstellar Medium </description>
     </item>
     
   </channel>
