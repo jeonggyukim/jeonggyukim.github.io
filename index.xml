@@ -1,48 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Jeong-Gyu Kim</title>
+    <title>Jeong-Gyu Kim</title>
     <link>https://jeonggyukim.github.io/</link>
-    <description>Recent content in About on Jeong-Gyu Kim</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jeonggyukim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on Jeong-Gyu Kim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://jeonggyukim.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://jeonggyukim.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://jeonggyukim.github.io/about/</guid>
-      <description>About Me Welcome! I am a EACOA Postdoctoral Fellow at National Astronomical Observatory of Japan, Mitaka, Japan.
-Combining theory and numerical simulations, my researh focuses on understanding how star formation proceeds in giant molecular clouds in the interstellar medium; how stellar feedback from massive stars (radiation, stellar winds, and supernovae) interacts with the surrounding interstellar medium and subsequently affects the lifecycle of giant molecular clouds and star formation cycle in galactic gas disks.</description>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Welcome! I am a QUC Fellow at Korea Institute for Advanced Study (KIAS).&lt;/p&gt;&#xA;&lt;!-- Welcome! I am a EACOA Postdoctoral Fellow at Korea Astronomy and Space Science Institute, Daejeon, Republic of Korea. --&gt;&#xA;&lt;p&gt;Combining theory and numerical simulations, my researh focuses on understanding how star formation proceeds in giant molecular clouds in the interstellar medium; how stellar feedback from massive stars (radiation, stellar winds, and supernovae) interacts with the surrounding interstellar medium and subsequently affects the lifecycle of giant molecular clouds and star formation cycle in galactic gas disks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://jeonggyukim.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://jeonggyukim.github.io/contact/</guid>
-      <description>Email: jeonggyu.astro at gmail dot com, jeonggyu.kim at nao dot ac dot jp
-Location: Main building (north), Room 218
-Mailing Address Dr. Jeong-Gyu Kim
-Division of Science
-National Astronomical Observatory of Japan
-2-21-1, Osawa, Mitaka, Tokyo 181-0015
-Japan</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Email: jeonggyu.astro at gmail dot com,  jeonggyukim at kias dot re dot kr&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Location: Building 8, Room 8414,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- 85 Hoegi-ro, Dongdaemun-gu, Seoul 02455, Korea --&gt;&#xA;&lt;!-- * Phone: [+82-91-123123](tel:+91-123123) --&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;mailing-address&#34;&gt;Mailing Address&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Dr. Jeong-Gyu Kim&lt;/p&gt;&#xA;&lt;p&gt;Division of Science&lt;/p&gt;&#xA;&lt;p&gt;National Astronomical Observatory of Japan&lt;/p&gt;&#xA;&lt;p&gt;2-21-1, Osawa, Mitaka, Tokyo 181-0015&lt;/p&gt;&#xA;&lt;p&gt;Japan&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;!-- --- --&gt;&#xA;&lt;!-- ## Social --&gt;&#xA;&lt;!-- * [Github](https://github.com/jeonggyukim) --&gt;&#xA;&lt;!-- 1.  --&gt;&#xA;&lt;!-- 2. [Twitter](#) --&gt;&#xA;&lt;!-- 3. [Google+](#) --&gt;</description>
     </item>
-    
     <item>
       <title>Movies</title>
       <link>https://jeonggyukim.github.io/movies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://jeonggyukim.github.io/movies/</guid>
-      <description>GMC Dispersal of Star-Forming Giant Molecular Clouds with UV Radiation Feedback
-(Kim et al. 2021)
-Dispersal of Star-Forming Giant Molecular Clouds with UV Radiation Feedback
-(Kim et al. 2018)
-Thermal Instability in the Interstellar Medium </description>
+      <description>&lt;h1 id=&#34;gmc&#34;&gt;GMC&lt;/h1&gt;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;Dispersal of Star-Forming Giant Molecular Clouds with UV Radiation Feedback&lt;br&gt;&#xA;(&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021ApJ...911..128K/abstract&#34; target=&#34;_blank&#34;&gt;Kim et al. 2021&lt;/a&gt;)&lt;/p&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/mjGr4vD6MnA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p style=&#34;text-align: center; margin-top:1cm&#34;&gt;Dispersal of Star-Forming Giant Molecular Clouds with UV Radiation Feedback&lt;br&gt; &#xA;(&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2018ApJ...859...68K/abstract&#34; target=&#34;_blank&#34;&gt;Kim et al. 2018&lt;/a&gt;)&lt;/p&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ssYw35qfGRU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_YC-ueHvEWw?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h1 id=&#34;thermal-instability-in-the-interstellar-medium&#34;&gt;Thermal Instability in the Interstellar Medium&lt;/h1&gt;&#xA;&lt;!-- &lt;p style=&#34;text-align: center; margin-top:1cm&#34;&gt;Thermal Instability in the Intestellar Medium&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
